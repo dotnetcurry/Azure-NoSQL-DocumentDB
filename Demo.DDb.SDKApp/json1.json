@@ -1,0 +1,25 @@
+﻿{
+  "College": {
+    "Name": "ABC Engg. College",
+    "Branch": [
+      {
+        "Mechanical": {
+          "Capacity": 1000,
+          "Professors": 10,
+          "AsstProfessors": 20,
+          "Lecturer": 30,
+          "Students": 400
+        },
+        "Computer": {
+          "Capacity": 1000,
+          "Professors": 10,
+          "AsstProfessors": 20,
+          "Lecturer": 30,
+          "Students": 400
+        }
+      } 
+
+    ]
+
+  }
+}

@@ -1,0 +1,10 @@
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\bin\Debug\Demo.DDb.SDKApp.exe.config
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\bin\Debug\Demo.DDb.SDKApp.exe
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\bin\Debug\Demo.DDb.SDKApp.pdb
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\bin\Debug\Microsoft.Azure.Documents.Client.dll
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\bin\Debug\Newtonsoft.Json.dll
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\bin\Debug\Microsoft.Azure.Documents.Client.xml
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\bin\Debug\Newtonsoft.Json.xml
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\obj\Debug\Demo.DDb.SDKApp.csprojResolveAssemblyReference.cache
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\obj\Debug\Demo.DDb.SDKApp.exe
+E:\Mahesh_New\Articles\Jan-2016\DocumentDB\MS\Demo.DocDB.RESTAPI\Demo.DDb.SDKApp\obj\Debug\Demo.DDb.SDKApp.pdb
